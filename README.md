@@ -4,16 +4,16 @@ This repo aims to share all the books I've read. I highly recommend them to any 
 
 ## Comunications
 
-### The Art of Reading Minds - Henrik Fexeus
+- The Art of Reading Minds - Henrik Fexeus
 
-### How to Win Friends and Influence People - Dale Carnegie
+- How to Win Friends and Influence People - Dale Carnegie
 
 ## Technical
 
-### BDD in Action - John Ferguson Smart
+- BDD in Action - John Ferguson Smart
 
-### The Clean Coder - Robert C. Martin [WIP]
+- The Clean Coder - Robert C. Martin [WIP]
 
 ## Strategy
 
-### The Art of War - Sun Tzu
+- The Art of War - Sun Tzu
